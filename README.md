@@ -2,7 +2,6 @@
   <br>
   @Rocketseat Ignite - Task List
 </h1>
-<h4 align="center">Não esqueça de deixar sua :star: </h4>
 
 #### <a name="software"></a>Essa aplicação usa:
 * [React](https://pt-br.reactjs.org/)  
@@ -29,3 +28,4 @@ A proposta desse repositório é compartilhar aplicação da manipulação de es
 
 ![Screenshot](https://github.com/kali-r3i5/ignite-tasks/blob/main/snapshot.png)
 
+<h4 align="center">Não esqueça de deixar sua :star: </h4>
