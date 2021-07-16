@@ -3,6 +3,9 @@
   @Rocketseat Ignite - Task List
 </h1>
 
+<p align="center"><font size="3">
+A proposta desse repositório é compartilhar aplicação da manipulação de estado usando <strong>React</strong>, <strong>Typescript</strong> e <strong>hooks</strong>.</p>
+  
 #### <a name="software"></a>Essa aplicação usa:
 * [React](https://pt-br.reactjs.org/)  
 * [Typescript](https://www.typescriptlang.org/) 
@@ -12,8 +15,6 @@
 * [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 
 
-<p align="center"><font size="3">
-A proposta desse repositório é compartilhar aplicação da manipulação de estado usando <strong>React</strong>, <strong>Typescript</strong> e <strong>hooks</strong>.</p>
 <div align="center"><a name="menu"></a>
   <h4>
     <a href="https://reisebertini.netlify.app/">
