@@ -3,7 +3,6 @@
   @Rocketseat Ignite - Task List
 </h1>
 <h4 align="center">Não esqueça de deixar sua :star: </h4>
-<p align="center"><a align="center" target="_blank" href="https://vcloudinfo.us12.list-manage.com/subscribe?u=45cab4343ffdbeb9667c28a26&id=e01847e94f"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="snapshot" style="border:0"></a></p>
 
 <p><font size="3">
 A proposta desse repositório é compartilhar aplicação da manipulação de estado usando <strong>React</strong>, <strong>Typescript</strong> e <strong>hooks</strong>.</p>
